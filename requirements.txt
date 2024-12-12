@@ -5,5 +5,4 @@ matplotlib
 seaborn
 scikit-learn
 datetime
-surprise
 joblib
