@@ -7,7 +7,7 @@ import seaborn as sns
 import pickle
 from datetime import datetime
 import joblib
-# from surprise import KNNBasic, Reader, Dataset
+from surprise import KNNBasic, Reader, Dataset
 # from PIL import Image
 
 
