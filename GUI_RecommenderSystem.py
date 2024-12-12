@@ -1,5 +1,6 @@
 # !pip install surprise
-
+import numpy
+numpy.import_array()
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
