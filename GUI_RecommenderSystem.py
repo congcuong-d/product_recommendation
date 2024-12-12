@@ -1,5 +1,5 @@
 # !pip install surprise
-import numpy as np
+# import numpy as np
 # numpy.import_array()
 import streamlit as st
 import pandas as pd
@@ -8,7 +8,7 @@ import seaborn as sns
 import pickle
 from datetime import datetime
 import joblib
-from surprise import KNNBasic, Reader, Dataset
+# from surprise import KNNBasic, Reader, Dataset
 # from PIL import Image
 
 
