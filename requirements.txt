@@ -1,5 +1,6 @@
 streamlit
 numpy
+cython
 pandas
 matplotlib
 seaborn
