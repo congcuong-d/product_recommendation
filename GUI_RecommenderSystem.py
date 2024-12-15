@@ -152,7 +152,7 @@ elif choice == 'Build Project':
     st.image("process_text.jpg", use_container_width=True)
     st.dataframe(data[["Content", "Content_wt"]].head(3))
 
-    st.write("##### 3. Xây dựng ma trận Consine Similarity")
+    st.write("##### 3. Xây dựng ma trận Cosine Similarity")
     st.markdown("""
     - Tạo ma trận  Cosine Simalarity của `1200 sản phẩm`.
     """)
